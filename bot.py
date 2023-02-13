@@ -14,4 +14,4 @@ class Bot(commands.Bot):
         self.load_extension("cogs.docs")
 
 bot = Bot()
-bot.run("ODc3NTU5ODQyMDM2OTQwODYx.G7PZVf.VVyUibwf0yGg2IF5ofjdBF8gPHItl071nnV4a0")
+bot.run("TOKEN")
